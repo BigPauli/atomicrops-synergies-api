@@ -1,0 +1,171 @@
+C:\Users\Paul\Downloads\Template\bin\Debug\netstandard2\Template.deps.json
+C:\Users\Paul\Downloads\Template\bin\Debug\netstandard2\Template.dll
+C:\Users\Paul\Downloads\Template\bin\Debug\netstandard2\Template.pdb
+C:\Users\Paul\Downloads\Template\bin\Debug\netstandard2\Assembly-CSharp.dll
+C:\Users\Paul\Downloads\Template\bin\Debug\netstandard2\UnityEngine.CoreModule.dll
+C:\Users\Paul\Downloads\Template\bin\Debug\netstandard2\UnityEngine.dll
+C:\Users\Paul\Downloads\Template\bin\Debug\netstandard2\UnityEngine.UI.dll
+C:\Users\Paul\Downloads\Template\bin\Debug\netstandard2\UnityEngine.UIElementsModule.dll
+C:\Users\Paul\Downloads\Template\bin\Debug\netstandard2\UnityEngine.UIModule.dll
+C:\Users\Paul\Downloads\Template\obj\Debug\netstandard2\Template.csproj.AssemblyReference.cache
+C:\Users\Paul\Downloads\Template\obj\Debug\netstandard2\MyPluginInfo.cs
+C:\Users\Paul\Downloads\Template\obj\Debug\netstandard2\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Downloads\Template\obj\Debug\netstandard2\Template.AssemblyInfoInputs.cache
+C:\Users\Paul\Downloads\Template\obj\Debug\netstandard2\Template.AssemblyInfo.cs
+C:\Users\Paul\Downloads\Template\obj\Debug\netstandard2\Template.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Downloads\Template\obj\Debug\netstandard2\Template.csproj.CopyComplete
+C:\Users\Paul\Downloads\Template\obj\Debug\netstandard2\Template.dll
+C:\Users\Paul\Downloads\Template\obj\Debug\netstandard2\Template.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\obj\Debug\netstandard2\Template.csproj.AssemblyReference.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\obj\Debug\netstandard2\MyPluginInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\obj\Debug\netstandard2\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\obj\Debug\netstandard2\Template.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\obj\Debug\netstandard2\Template.AssemblyInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\obj\Debug\netstandard2\Template.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\bin\Debug\netstandard2\AddItem.deps.json
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\bin\Debug\netstandard2\AddItem.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\bin\Debug\netstandard2\AddItem.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\bin\Debug\netstandard2\Assembly-CSharp.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\bin\Debug\netstandard2\UnityEngine.CoreModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\bin\Debug\netstandard2\UnityEngine.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\bin\Debug\netstandard2\UnityEngine.UI.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\bin\Debug\netstandard2\UnityEngine.UIElementsModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\bin\Debug\netstandard2\UnityEngine.UIModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\obj\Debug\netstandard2\Template.csproj.CopyComplete
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\obj\Debug\netstandard2\AddItem.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\AddItem\obj\Debug\netstandard2\AddItem.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\obj\Debug\netstandard2\Template.csproj.AssemblyReference.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\obj\Debug\netstandard2\MyPluginInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\obj\Debug\netstandard2\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\obj\Debug\netstandard2\Template.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\obj\Debug\netstandard2\Template.AssemblyInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\obj\Debug\netstandard2\Template.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\bin\Debug\netstandard2\AddSprite.deps.json
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\bin\Debug\netstandard2\AddSprite.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\bin\Debug\netstandard2\AddSprite.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\bin\Debug\netstandard2\Assembly-CSharp.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\bin\Debug\netstandard2\UnityEngine.CoreModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\bin\Debug\netstandard2\UnityEngine.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\bin\Debug\netstandard2\UnityEngine.ImageConversionModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\bin\Debug\netstandard2\UnityEngine.UI.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\bin\Debug\netstandard2\UnityEngine.UIElementsModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\bin\Debug\netstandard2\UnityEngine.UIModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\obj\Debug\netstandard2\Template.csproj.CopyComplete
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\obj\Debug\netstandard2\AddSprite.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\NewSprite\obj\Debug\netstandard2\AddSprite.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\bin\Debug\netstandard2\LeadPipeItem.deps.json
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\bin\Debug\netstandard2\LeadPipeItem.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\bin\Debug\netstandard2\LeadPipeItem.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\bin\Debug\netstandard2\Assembly-CSharp.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\bin\Debug\netstandard2\UnityEngine.CoreModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\bin\Debug\netstandard2\UnityEngine.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\bin\Debug\netstandard2\UnityEngine.ImageConversionModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\bin\Debug\netstandard2\UnityEngine.UI.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\bin\Debug\netstandard2\UnityEngine.UIElementsModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\bin\Debug\netstandard2\UnityEngine.UIModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\obj\Debug\netstandard2\Template.csproj.AssemblyReference.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\obj\Debug\netstandard2\MyPluginInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\obj\Debug\netstandard2\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\obj\Debug\netstandard2\Template.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\obj\Debug\netstandard2\Template.AssemblyInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\obj\Debug\netstandard2\Template.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\obj\Debug\netstandard2\Template.csproj.CopyComplete
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\obj\Debug\netstandard2\LeadPipeItem.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\LeadPipeItem\obj\Debug\netstandard2\LeadPipeItem.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\bin\Debug\netstandard2\LeadPipeItem.deps.json
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\bin\Debug\netstandard2\LeadPipeItem.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\bin\Debug\netstandard2\LeadPipeItem.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\bin\Debug\netstandard2\Assembly-CSharp.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\bin\Debug\netstandard2\UnityEngine.CoreModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\bin\Debug\netstandard2\UnityEngine.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\bin\Debug\netstandard2\UnityEngine.ImageConversionModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\bin\Debug\netstandard2\UnityEngine.UI.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\bin\Debug\netstandard2\UnityEngine.UIElementsModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\bin\Debug\netstandard2\UnityEngine.UIModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\obj\Debug\netstandard2\Template.csproj.AssemblyReference.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\obj\Debug\netstandard2\MyPluginInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\obj\Debug\netstandard2\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\obj\Debug\netstandard2\Template.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\obj\Debug\netstandard2\Template.AssemblyInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\obj\Debug\netstandard2\Template.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\obj\Debug\netstandard2\Template.csproj.CopyComplete
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\obj\Debug\netstandard2\LeadPipeItem.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\ExampleItem\obj\Debug\netstandard2\LeadPipeItem.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\obj\Debug\netstandard2\Template.csproj.AssemblyReference.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\obj\Debug\netstandard2\MyPluginInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\obj\Debug\netstandard2\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\obj\Debug\netstandard2\Template.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\obj\Debug\netstandard2\Template.AssemblyInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\obj\Debug\netstandard2\Template.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\bin\Debug\netstandard2\Wilderberries.deps.json
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\bin\Debug\netstandard2\Wilderberries.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\bin\Debug\netstandard2\Wilderberries.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\bin\Debug\netstandard2\Assembly-CSharp.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\bin\Debug\netstandard2\UnityEngine.CoreModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\bin\Debug\netstandard2\UnityEngine.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\bin\Debug\netstandard2\UnityEngine.ImageConversionModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\bin\Debug\netstandard2\UnityEngine.UI.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\bin\Debug\netstandard2\UnityEngine.UIElementsModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\bin\Debug\netstandard2\UnityEngine.UIModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\obj\Debug\netstandard2\Template.csproj.CopyComplete
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\obj\Debug\netstandard2\Wilderberries.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\Wilderberries\obj\Debug\netstandard2\Wilderberries.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\bin\Debug\netstandard2\CustomParams.deps.json
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\bin\Debug\netstandard2\CustomParams.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\bin\Debug\netstandard2\CustomParams.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\bin\Debug\netstandard2\Assembly-CSharp.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\bin\Debug\netstandard2\UnityEngine.CoreModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\bin\Debug\netstandard2\UnityEngine.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\bin\Debug\netstandard2\UnityEngine.ImageConversionModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\bin\Debug\netstandard2\UnityEngine.UI.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\bin\Debug\netstandard2\UnityEngine.UIElementsModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\bin\Debug\netstandard2\UnityEngine.UIModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\obj\Debug\netstandard2\Template.csproj.AssemblyReference.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\obj\Debug\netstandard2\MyPluginInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\obj\Debug\netstandard2\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\obj\Debug\netstandard2\Template.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\obj\Debug\netstandard2\Template.AssemblyInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\obj\Debug\netstandard2\Template.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\obj\Debug\netstandard2\Template.csproj.CopyComplete
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\obj\Debug\netstandard2\CustomParams.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\obj\Debug\netstandard2\CustomParams.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\bin\Debug\netstandard2\CustomParams.deps.json
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\bin\Debug\netstandard2\CustomParams.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\bin\Debug\netstandard2\CustomParams.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\bin\Debug\netstandard2\Assembly-CSharp.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\bin\Debug\netstandard2\UnityEngine.CoreModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\bin\Debug\netstandard2\UnityEngine.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\bin\Debug\netstandard2\UnityEngine.ImageConversionModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\bin\Debug\netstandard2\UnityEngine.UI.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\bin\Debug\netstandard2\UnityEngine.UIElementsModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\bin\Debug\netstandard2\UnityEngine.UIModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\obj\Debug\netstandard2\Template.csproj.AssemblyReference.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\obj\Debug\netstandard2\MyPluginInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\obj\Debug\netstandard2\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\obj\Debug\netstandard2\Template.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\obj\Debug\netstandard2\Template.AssemblyInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\obj\Debug\netstandard2\Template.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\obj\Debug\netstandard2\CustomParams.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\obj\Debug\netstandard2\CustomParams.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\obj\Debug\netstandard2\Template.sourcelink.json
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\CustomParams\atomicrops-custom-params\obj\Debug\netstandard2\Template.csproj.Up2Date
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\obj\Debug\netstandard2\Template.csproj.AssemblyReference.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\obj\Debug\netstandard2\MyPluginInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\obj\Debug\netstandard2\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\obj\Debug\netstandard2\Template.AssemblyInfoInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\obj\Debug\netstandard2\Template.AssemblyInfo.cs
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\obj\Debug\netstandard2\Template.csproj.CoreCompileInputs.cache
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\obj\Debug\netstandard2\Template.sourcelink.json
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\bin\Debug\netstandard2\SynergiesAPI.deps.json
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\bin\Debug\netstandard2\SynergiesAPI.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\bin\Debug\netstandard2\SynergiesAPI.pdb
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\bin\Debug\netstandard2\Assembly-CSharp.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\bin\Debug\netstandard2\UnityEngine.CoreModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\bin\Debug\netstandard2\UnityEngine.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\bin\Debug\netstandard2\UnityEngine.ImageConversionModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\bin\Debug\netstandard2\UnityEngine.UI.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\bin\Debug\netstandard2\UnityEngine.UIElementsModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\bin\Debug\netstandard2\UnityEngine.UIModule.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\obj\Debug\netstandard2\Template.csproj.Up2Date
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\obj\Debug\netstandard2\SynergiesAPI.dll
+C:\Users\Paul\OneDrive\Documents\Atomicrops Mod Attempts\SynergiesAPI\atomicrops-synergies-api\obj\Debug\netstandard2\SynergiesAPI.pdb
